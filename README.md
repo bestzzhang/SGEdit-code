@@ -1,4 +1,4 @@
-# SGEdit: Bridging LLM with Text2Image Generative Model for Scene Graph-based Image Editing
+# SGEdit: Bridging LLM with Text2Image Generative Model for Scene Graph-based Image Editing (TOG'24)
 
 ![alt text](assets/teaser.jpg)
 
